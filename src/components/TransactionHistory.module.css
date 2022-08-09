@@ -1,0 +1,32 @@
+.transactionHistory{
+    border: 2px solid #CECECE;
+    text-align: center;
+    width: 500px;
+    background-color: #fff;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+    font-size: 10px;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-bottom: 50px;
+}
+
+.id:nth-child(even){
+    background-color: #ECF1F3;   
+}
+
+.header{
+    background-color: #02BDD5;
+    text-transform: uppercase;
+    font-style: normal; 
+    color: white;
+}
+
+.type{
+    text-transform: capitalize;    
+}
+
+td, th {
+    height: 30px;
+}
