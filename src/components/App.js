@@ -19,7 +19,7 @@ export const App = () => {
         />
 
         <Statistics 
-          title="Upload stats" 
+          // title="Upload stats" 
           stats={data} 
         /> 
         

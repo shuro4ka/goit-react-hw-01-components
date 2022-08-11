@@ -4,15 +4,15 @@
     text-align: center;
     margin: 0 auto;
     margin-top: 50px;
-    padding-top: 20px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+    overflow: hidden;
 }
 
 .title {
     text-transform: uppercase;
     margin: 0;
     margin-bottom: 20px;
-    padding: 20px;
+    margin-top: 20px;
     color: #475A68;
 }
 
@@ -29,11 +29,6 @@
 .item {
     width: 20%;
     padding: 20px 0;
-    background-color: violet;
-}
-
-.label {
-
 }
 
 .percentage {
